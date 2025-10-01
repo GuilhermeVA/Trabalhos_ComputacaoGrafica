@@ -1,1 +1,1 @@
-# TrabalhoAC_ComputaçãoGráfica
+# Trabalhos da Disciplina de Computação Gráfica
